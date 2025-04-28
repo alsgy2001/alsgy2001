@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </div>
 
-![Banner](./github-banner.png)
+I am a Senior FullStack Developer with 8 years of experience in Web and Artificial Intelligence, focused on scalable solutions, performance, and accessibility. I have experience with .NET, JavaScript, and TypeScript, working on large-scale projects, including systems for the aviation sector and volunteering initiatives in various countries. Currently, I am a Software Engineer and owner of Asa Inovações, providing services to sectors such as Education, Automotive, Aeronautics, and Healthcare. In my spare time, I enjoy gaming, reading, watching anime, and creating content online.
 
 <h1 align="center">Hi 👋, I'm Alan Guerra or ReeseArch64</h1>
 
@@ -30,6 +30,38 @@
     <img align="center" src="https://tabnews.com.br/favicon.ico" alt="reesearch64 on TabNews" height="30" width="40" />
   </a>
 </p>
+
+## 📂 Featured Repositories
+
+### [**Moodify**](https://github.com/reesearch64/moodify)  
+*Musicas com IA 🎶 – Um projeto para criar playlists com base no seu humor.*
+
+### [**LifeVet**](https://github.com/reesearch64/lifevet)  
+*Laboratório Veterinário 🐶🐱 – Sistema de gestão de exames veterinários.*
+
+### [**SafeLine**](https://github.com/reesearch64/safeline)  
+*Gestor de Cateteres 💉 – Sistema para monitorar e gerenciar procedimentos médicos.*
+
+### [**CarExpress**](https://github.com/reesearch64/cexpress)  
+*Automação de Compra de Carros 🚗 – Projeto de scraping para buscar e comprar carros.*
+
+### [**divulgameurprojeto.com**](https://github.com/reesearch64/divulgameurprojeto)  
+*Divulgar Projetos Sem Remuneração 🌍 – Plataforma para compartilhar e divulgar projetos.*
+
+### [**GPTPrompts**](https://github.com/reesearch64/gptprompts)  
+*Gerador de Prompts 📝 – Gerador de prompts para IA baseado em modelos GPT.*
+
+### [**JurisCloud**](https://github.com/reesearch64/juriscloud)  
+*Automação de busca de Processos Judiciais ⚖️ – Sistema para buscar e organizar processos.*
+
+### [**Jarbas**](https://github.com/reesearch64/jarbas)  
+*Geração de Documentos Jurídicos 📑 – Sistema para automatizar a criação de documentos legais.*
+
+### [**MeuDizimo**](https://github.com/reesearch64/meudizimo)  
+*Ofertar e Dizimar com IA ⛪ – Plataforma para realizar ofertas e dízimos com o uso de IA.*
+
+### [**ContrataDev**](https://github.com/reesearch64/contratadev)  
+*Plataforma de Contratação de Programadores 👨‍💻 – Sistema para conectar empresas e desenvolvedores.*
 
 <div align="center">
   <img src="./github-metrics.svg" />
