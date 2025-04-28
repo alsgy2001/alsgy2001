@@ -45,7 +45,7 @@ I am a Senior FullStack Developer with 8 years of experience in Web and Artifici
 ### [**CarExpress**](https://github.com/reesearch64/cexpress)  
 *Automação de Compra de Carros 🚗 – Projeto de scraping para buscar e comprar carros.*
 
-### [**divulgameurprojeto.com**](https://github.com/reesearch64/divulgameurprojeto)  
+### [**divulgameprojeto.com**](https://github.com/reesearch64/divulgameurprojeto)  
 *Divulgar Projetos Sem Remuneração 🌍 – Plataforma para compartilhar e divulgar projetos.*
 
 ### [**GPTPrompts**](https://github.com/reesearch64/gptprompts)  
