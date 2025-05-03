@@ -9,28 +9,6 @@ I am a Senior FullStack Developer with 8 years of experience in Web and Artifici
 
 <h1 align="center">Hi 👋, I'm Alan Guerra or ReeseArch64</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/reesearch64" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reesearch64" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/thi.code" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thi.code" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@reesearch64.channel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@reesearch64.channel" height="30" width="40" />
-  </a>
-  <a href="https://x.com/reesearch64" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reesearch64 on X" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/reesearch64" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reesearch64 on Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.tabnews.com.br/reesearch64" target="blank">
-    <img align="center" src="https://tabnews.com.br/favicon.ico" alt="reesearch64 on TabNews" height="30" width="40" />
-  </a>
-</p>
-
 ## 📂 Featured Repositories
 
 ### [**Moodify**](https://github.com/reesearch64/moodify)  
