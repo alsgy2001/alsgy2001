@@ -11,35 +11,45 @@ I am a Senior FullStack Developer with 8 years of experience in Web and Artifici
 
 ## 📂 Featured Repositories
 
-### [**Moodify**](https://github.com/reesearch64/moodify)  
-*Musicas com IA 🎶 – Um projeto para criar playlists com base no seu humor.*
+### [**Moodify**](https://github.com/reesearch64/moodify)
 
-### [**LifeVet**](https://github.com/reesearch64/lifevet)  
-*Laboratório Veterinário 🐶🐱 – Sistema de gestão de exames veterinários.*
+*AI Music 🎶 – A project to create playlists based on your mood.*
 
-### [**SafeLine**](https://github.com/reesearch64/safeline)  
-*Gestor de Cateteres 💉 – Sistema para monitorar e gerenciar procedimentos médicos.*
+### [**LifeVet**](https://github.com/reesearch64/lifevet)
 
-### [**CarExpress**](https://github.com/reesearch64/cexpress)  
-*Automação de Compra de Carros 🚗 – Projeto de scraping para buscar e comprar carros.*
+*Veterinary Laboratory 🐶🐱 – Veterinary exam management system.*
 
-### [**divulgameprojeto.com**](https://github.com/reesearch64/divulgameurprojeto)  
-*Divulgar Projetos Sem Remuneração 🌍 – Plataforma para compartilhar e divulgar projetos.*
+### [**SafeLine**](https://github.com/reesearch64/safeline)
 
-### [**GPTPrompts**](https://github.com/reesearch64/gptprompts)  
-*Gerador de Prompts 📝 – Gerador de prompts para IA baseado em modelos GPT.*
+*Catheter Manager 💉 – System to monitor and manage medical procedures.*
 
-### [**JurisCloud**](https://github.com/reesearch64/juriscloud)  
-*Automação de busca de Processos Judiciais ⚖️ – Sistema para buscar e organizar processos.*
+### [**CarExpress**](https://github.com/reesearch64/cexpress)
 
-### [**Jarbas**](https://github.com/reesearch64/jarbas)  
-*Geração de Documentos Jurídicos 📑 – Sistema para automatizar a criação de documentos legais.*
+*Car Buying Automation 🚗 – Scraping project to search for and buy cars.*
 
-### [**MeuDizimo**](https://github.com/reesearch64/meudizimo)  
-*Ofertar e Dizimar com IA ⛪ – Plataforma para realizar ofertas e dízimos com o uso de IA.*
+### [**divulgameprojeto.com**](https://github.com/reesearch64/divulgameurprojeto)
 
-### [**ContrataDev**](https://github.com/reesearch64/contratadev)  
-*Plataforma de Contratação de Programadores 👨‍💻 – Sistema para conectar empresas e desenvolvedores.*
+*Share Projects for Free 🌍 – Platform to share and promote projects.*
+
+### [**GPTPrompts**](https://github.com/reesearch64/gptprompts)
+
+*Prompt Generator 📝 – AI prompt generator based on GPT models.*
+
+### [**JurisCloud**](https://github.com/reesearch64/juriscloud)
+
+*Judicial Process Search Automation ⚖️ – System to search and organize legal processes.*
+
+### [**Jarbas**](https://github.com/reesearch64/jarbas)
+
+*Legal Document Generation 📑 – System to automate the creation of legal documents.*
+
+### [**MeuDizimo**](https://github.com/reesearch64/meudizimo)
+
+*Offerings and Tithes with AI ⛪ – Platform for making offerings and tithes using AI.*
+
+### [**ContrataDev**](https://github.com/reesearch64/contratadev)
+
+*Platform for Hiring Developers 👨‍💻 – System to connect companies and developers.*
 
 <div align="center">
   <img src="./github-metrics.svg" />
