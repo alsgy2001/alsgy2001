@@ -85,11 +85,11 @@ jobs:
           plugin_topics_sort: activity
 
           # leetcode
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: ReeseArch64
+          #plugin_leetcode: yes
+          #plugin_leetcode_limit_recent: 2
+          #plugin_leetcode_limit_skills: 10
+          #plugin_leetcode_sections: solved
+          #plugin_leetcode_user: ReeseArch64
 
           # stack overflow
           plugin_stackoverflow: yes
