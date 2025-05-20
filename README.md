@@ -1,13 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Alan+Guerra;I'm%2C+Content+Creator+and+Software+Enginner" width="70%" />
-  <br>
-  <br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-</div>
-
 I am a Senior FullStack Developer with 8 years of experience in Web and Artificial Intelligence, focused on scalable solutions, performance, and accessibility. I have experience with .NET, JavaScript, and TypeScript, working on large-scale projects, including systems for the aviation sector and volunteering initiatives in various countries. Currently, I am a Software Engineer and owner of Asa Inovações, providing services to sectors such as Education, Automotive, Aeronautics, and Healthcare. In my spare time, I enjoy gaming, reading, watching anime, and creating content online.
-
-<h1 align="center">Hi 👋, I'm Alan Guerra or ReeseArch64</h1>
 
 ## 📂 Featured Repositories
 
