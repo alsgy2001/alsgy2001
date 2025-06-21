@@ -1,4 +1,8 @@
-I am a Senior FullStack Developer with 8 years of experience in Web and Artificial Intelligence, focused on scalable solutions, performance, and accessibility. I have experience with .NET, JavaScript, and TypeScript, working on large-scale projects, including systems for the aviation sector and volunteering initiatives in various countries. Currently, I am a Software Engineer and owner of Asa Inovações, providing services to sectors such as Education, Automotive, Aeronautics, and Healthcare. In my spare time, I enjoy gaming, reading, watching anime, and creating content online.
+With 8 years of experience in web development and artificial intelligence, I build solutions focused on scalability, performance, and accessibility. My expertise spans .NET, JavaScript, and TypeScript, and I've worked on large-scale projects, including systems for the aviation sector and volunteer initiatives in various countries.
+
+Currently, I'm a Software Engineer and owner of Asa Inovações, providing services to the Education, Automotive, Aeronautics, and Healthcare sectors.
+
+In my free time, I enjoy gaming, reading, watching anime, and creating online content.
 
 ## 📂 Featured Repositories
 
