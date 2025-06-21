@@ -6,7 +6,7 @@ In my free time, I enjoy gaming, reading, watching anime, and creating online co
 
 ## 📂 Featured Repositories
 
-### [**Moodify**](https://github.com/reesearch64/moodify)
+### [**Moodify**](https://moodify-henna-nu.vercel.app)
 
 *AI Music 🎶 – A project to create playlists based on your mood.*
 
